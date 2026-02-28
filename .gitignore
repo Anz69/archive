@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+
+.vscode/
+
+# Playwright profile / local browser data
+.pw-profile-archive.com/
+
+# Common secrets / local env
+.env
+.env.*
+
+# Dependencies / build artifacts (just in case)
+node_modules/
+dist/
+build/
