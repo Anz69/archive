@@ -1,0 +1,11 @@
+2026/02/28-19:51:19.192 6f1420 Creating DB /Users/antonanton/MyProject/Копиратор/archive/.pw-profile-archive.com/Default/Local Storage/leveldb since it was missing.
+2026/02/28-19:51:19.200 6f1420 Reusing MANIFEST /Users/antonanton/MyProject/Копиратор/archive/.pw-profile-archive.com/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/28-20:30:21.157 6f1420 Level-0 table #5: started
+2026/02/28-20:30:21.161 6f1420 Level-0 table #5: 13581 bytes OK
+2026/02/28-20:30:21.167 6f1420 Delete type=0 #3
+2026/02/28-20:45:21.164 6f1423 Level-0 table #7: started
+2026/02/28-20:45:21.167 6f1423 Level-0 table #7: 16998 bytes OK
+2026/02/28-20:45:21.170 6f1423 Delete type=0 #4
+2026/02/28-20:58:21.162 6f1420 Level-0 table #9: started
+2026/02/28-20:58:21.165 6f1420 Level-0 table #9: 16217 bytes OK
+2026/02/28-20:58:21.167 6f1420 Delete type=0 #6
